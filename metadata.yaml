@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Semyonov, S. T.
     - Семёнов, Сергей Терентьевич
-    birthdate: &id002 1868
+    birthdate: 1868
     deathdate: 1922
     gutenberg_agent_id: '5092'
     url: http://www.gutenberg.org/2009/agents/5092
@@ -71,7 +71,7 @@ contributor:
     - Artzibashef, Michael
     - Арцыбашев, Михаил Петрович
     birthdate: 1878
-    deathdate: &id001 1927
+    deathdate: 1927
     gutenberg_agent_id: '2955'
     url: http://www.gutenberg.org/2009/agents/2955
     wikipedia: http://en.wikipedia.org/wiki/Mikhail_Artsybashev
@@ -82,7 +82,7 @@ contributor:
     - Sologub, Feodor
     - Teternikov, Fyodor Kuzmich
     birthdate: 1863
-    deathdate: *id001
+    deathdate: 1927
     gutenberg_agent_id: '2481'
     url: http://www.gutenberg.org/2009/agents/2481
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Sologub
@@ -154,7 +154,7 @@ contributor:
     - Горький, Максим
     - Gorky, Maxim
     - Peshkov, Alexey Maximiovich
-    birthdate: *id002
+    birthdate: 1868
     deathdate: 1936
     gutenberg_agent_id: '348'
     url: http://www.gutenberg.org/2009/agents/348
@@ -171,6 +171,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5085
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Seltzer_%28translator%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13437#Best-Russian-Short-Stories
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2004-09-11'
 gutenberg_type: Text
