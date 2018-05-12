@@ -1,0 +1,195 @@
+_repo: Best-Russian-Short-Stories_13437
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Semenov, S. T. (Sergei Terentyevich)
+    aliases:
+    - Semyonov, S. T.
+    - Семёнов, Сергей Терентьевич
+    birthdate: &id002 1868
+    deathdate: 1922
+    gutenberg_agent_id: '5092'
+    url: http://www.gutenberg.org/2009/agents/5092
+  - agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
+    aliases:
+    - Koeprin, Alexander I.
+    - Куприн, Александр Иванович
+    - Kuprin, Aleksandr Ivanovich
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '1552'
+    url: http://www.gutenberg.org/2009/agents/1552
+    wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Kuprin
+  - agent_name: Garshin, Vsevolod Mikhailovich
+    alias: Гаршин, Всеволод Михайлович
+    birthdate: 1855
+    deathdate: 1888
+    gutenberg_agent_id: '5086'
+    url: http://www.gutenberg.org/2009/agents/5086
+    wikipedia: http://en.wikipedia.org/wiki/Vsevolod_Garshin
+  - agent_name: Potapenko, Ignatii Nicholaevich
+    alias: Потапенко, Игнатий Николаевич
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '5089'
+    url: http://www.gutenberg.org/2009/agents/5089
+  - agent_name: Korolenko, Vladimir Galaktionovich
+    alias: Короленко, Владимир Галактионович
+    birthdate: 1853
+    deathdate: 1921
+    gutenberg_agent_id: '5088'
+    url: http://www.gutenberg.org/2009/agents/5088
+    wikipedia: http://en.wikipedia.org/wiki/Vladimir_Korolenko
+  - agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoyevsky, F. M.
+    - Dostoevsky, Fyodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fiodor
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoievski, Fédor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+  - agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Poushkin, Alexander
+    - Пушкин, Александр Сергеевич
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+  - agent_name: Artsybashev, M. (Mikhail)
+    aliases:
+    - Artsybashev, Mikhail Petrovich
+    - Artzibashef, Michael
+    - Арцыбашев, Михаил Петрович
+    birthdate: 1878
+    deathdate: &id001 1927
+    gutenberg_agent_id: '2955'
+    url: http://www.gutenberg.org/2009/agents/2955
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Artsybashev
+  - agent_name: Sologub, Fyodor
+    aliases:
+    - Тетерников, Федор Кузьмич
+    - Сологуб, Федор
+    - Sologub, Feodor
+    - Teternikov, Fyodor Kuzmich
+    birthdate: 1863
+    deathdate: *id001
+    gutenberg_agent_id: '2481'
+    url: http://www.gutenberg.org/2009/agents/2481
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Sologub
+  - agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  - agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Tchekhov, Anton
+    - Chekov, Anton Pavlovich
+    - Tshehov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+  - agent_name: Andreyev, Leonid
+    aliases:
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    - Andreev, Leonid Nikolaevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+  - agent_name: Saltykov, Mikhail Evgrafovich
+    aliases:
+    - Салтыков-Щедрин, Михаил Евграфович
+    - Saltykov-Shchedrin, Mikhail Evgrafovich
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '5090'
+    url: http://www.gutenberg.org/2009/agents/5090
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Saltykov-Shchedrin
+  - agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+  - agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+  - agent_name: Gorky, Maksim
+    aliases:
+    - Горький, Максим
+    - Gorky, Maxim
+    - Peshkov, Alexey Maximiovich
+    birthdate: *id002
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Seltzer, Thomas
+    birthdate: 1873
+    deathdate: 1943
+    gutenberg_agent_id: '5085'
+    url: http://www.gutenberg.org/2009/agents/5085
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Seltzer_%28translator%29
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcc 'PG'
+tableOfContents: The queen of spades / A.S. Pushkin -- The cloak / N.V. Gogol -- The
+  district doctor / I.S. Turgenev -- The Christmas tree and the wedding / F.M. Dostoyevsky
+  -- God sees the truth, but waits / L.N. Tolstoy -- How a Muzhik fed two officials
+  / M.Y. Saltykov -- The shades, a phantasy / V.G. Korolenko -- The signal / V.N.
+  Garshin -- The darling / A.P. Chekhov -- The bet / A.P. Chekhov -- Vanka / A.P.
+  Chekhov -- Hide and seek / F.K. Sologub -- Dethroned / I.N. Potapenko -- The servant
+  / S.T. Semyonov -- One autumn night / M. Gorky -- Her lover / M. Gorky -- Lazarus
+  / L.N. Andreyev -- The revolutionist / M.P. Artzybashev -- The outrage / A.I. Kuprin.
+title: Best Russian Short Stories
+url: http://www.gutenberg.org/ebooks/13437
