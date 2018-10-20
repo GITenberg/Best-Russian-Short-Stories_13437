@@ -185,6 +185,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Short stories, Russian -- Translations into English'
 - !lcc 'PG'
+- GITenberg
 tableOfContents: The queen of spades / A.S. Pushkin -- The cloak / N.V. Gogol -- The
   district doctor / I.S. Turgenev -- The Christmas tree and the wedding / F.M. Dostoyevsky
   -- God sees the truth, but waits / L.N. Tolstoy -- How a Muzhik fed two officials
